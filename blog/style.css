@@ -1,0 +1,12 @@
+body{
+    background-image: url("hatter.jpg");
+    color: rgb(255, 255, 255);
+}
+
+#focim{
+    text-align: center;
+}
+
+li {
+    font-size: 28px;
+}
